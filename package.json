@@ -1,0 +1,28 @@
+{
+  "name": "mia-cog-fsf-pt-03-2020-u-c-homework12",
+  "version": "0.0.1",
+  "description": "Employee Tracker UM Bootcamp Homework 12",
+  "main": "employee_tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK12.git"
+  },
+  "keywords": [
+    "Employee",
+    "Tracker"
+  ],
+  "author": "Jorge Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK12/issues"
+  },
+  "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
